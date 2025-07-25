@@ -24,9 +24,22 @@ print(df)
 
 
 
+
+
 # import a csv into a dataframe
 # use salary.csv which is a salary table
 # optionally add the delimiter to make sure it is parsed correctly. In this case, I'll use tab as the delimiter.
 salary_df = pd.read_csv('salary.csv', delimiter='\t')
 
 print(salary_df)
+
+
+# Series
+
+# make a series from original df
+
+name_series = df.name
+
+print(name_series)
+
+print(type(name_series))
