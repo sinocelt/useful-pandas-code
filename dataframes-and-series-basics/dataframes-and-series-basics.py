@@ -43,3 +43,32 @@ name_series = df.name
 print(name_series)
 
 print(type(name_series))
+
+
+
+
+name_series = df.name
+
+print(name_series)
+
+print(type(name_series))
+
+
+USE JUPYPTER NOTEBOOK FILE?
+
+
+
+####
+
+POST ABOUT useful pandas code
+
+
+with jupyter notebook
+
+
+
+
+
+
+
+
