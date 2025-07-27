@@ -1,1 +1,1 @@
-Useful code for use in pandas
+Useful code for pandas
