@@ -1,0 +1,34 @@
+# Ignore Python virtual environment
+.venv/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables or secret files (if any)
+.env
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.bak
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Notebook output files (optional)
+*.out
