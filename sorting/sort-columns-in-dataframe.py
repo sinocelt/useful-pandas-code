@@ -1,7 +1,3 @@
-# © Justin Barry 2025-07
-# watsontechworld.com
-# you are free to use this code however you like. It would be nice if you give me credit but it isn't necessary. Enjoy!
-
 import pandas as pd
 
 df = pd.read_csv('salary.csv', delimiter='\t')
@@ -162,3 +158,8 @@ df.sort_values(by=['career', 'name'], ascending = [True, True])
 # 11    Jean                      waitress          30000      f   27     20–29                      waitress
 
 # read more at https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
+
+
+
+
+
